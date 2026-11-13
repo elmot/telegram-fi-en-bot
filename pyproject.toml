@@ -1,0 +1,13 @@
+[project]
+name = "telegram-fi-en-bot"
+version = "0.1.0"
+description = "Telegram bot that translates forwarded messages from Finnish to English"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "python-telegram-bot>=21.0",
+    "python-dotenv>=1.0.0",
+    "deep-translator>=1.11.4",
+    "deepl>=1.18.0",
+]
+

@@ -1,0 +1,26 @@
+name: "Telegram Finnish Translator"
+slug: "telegram_fi_en_translator"
+version: "1.0.0"
+description: "Telegram bot that translates forwarded Finnish messages into English"
+url: "https://github.com/your-username/telegram-fi-en-translator"
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+startup: "services"
+boot: "auto"
+init: false
+options:
+  telegram_bot_token: ""
+  translation_provider: "mymemory"
+  deepl_api_key: ""
+  mymemory_email: ""
+  bot_mode: "forwarded_only"
+schema:
+  telegram_bot_token: "password"
+  translation_provider: "list(mymemory|deepl)?"
+  deepl_api_key: "password?"
+  mymemory_email: "str?"
+  bot_mode: "list(forwarded_only|all)?"
