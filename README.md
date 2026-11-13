@@ -1,4 +1,4 @@
-# 🇫🇮 ➔ 🇬🇧 Telegram Finnish-to-English Translator Bot & Home Assistant Add-on
+# 🇫🇮 ➔ 🇬🇧 Telegram Finnish-to-English Translator Bot run as Home Assistant Add-on
 
 A lightweight, asynchronous Telegram bot that automatically translates forwarded Finnish messages into English. Ready to run locally, via Docker, or directly as a **Home Assistant Add-on**.
 
@@ -23,7 +23,7 @@ A lightweight, asynchronous Telegram bot that automatically translates forwarded
 2. Click the **three vertical dots** (top right) ➔ **Repositories**.
 3. Paste the URL of your Git repository:
    ```
-   https://github.com/<your-username>/telegram-fi-en-translator
+   https://github.com/elmot/telegram-fi-en-translator
    ```
 4. Click **Add** and then **Close**.
 

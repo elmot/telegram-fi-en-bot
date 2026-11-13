@@ -29,3 +29,4 @@ In Home Assistant, navigate to **Settings** ➔ **Add-ons** ➔ **Telegram Finni
 2. In Telegram, open your bot and press `/start`.
 3. Forward any Finnish message to the bot.
 4. The bot immediately replies with the English translation.
+

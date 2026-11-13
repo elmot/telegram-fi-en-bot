@@ -24,3 +24,4 @@ schema:
   deepl_api_key: "password?"
   mymemory_email: "str?"
   bot_mode: "list(forwarded_only|all)?"
+
