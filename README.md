@@ -23,7 +23,7 @@ A lightweight, asynchronous Telegram bot that automatically translates forwarded
 2. Click the **three vertical dots** (top right) ➔ **Repositories**.
 3. Paste the URL of your Git repository:
    ```
-   https://github.com/elmot/telegram-fi-en-translator
+   https://github.com/elmot/telegram-fi-en-bot
    ```
 4. Click **Add** and then **Close**.
 
